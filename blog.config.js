@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'qiuqiwen', // 作者
   BIO: '一个顺火暖玩家', // 作者简介
-  LINK: 'https://tangly4096.com', // 网站地址
+  LINK: 'https://tangly1024.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '4e731d0da84e40459e4d1cc1f15b18df', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
